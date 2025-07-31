@@ -1,0 +1,20 @@
+{
+  "date": "2025-07-31",
+  "attendees": [
+    {
+      "name": "John Doe",
+      "status": "present",
+      "time": "09:05:22"
+    },
+    {
+      "name": "Jane Smith",
+      "status": "absent",
+      "time": null
+    },
+    {
+      "name": "Bob Johnson",
+      "status": "late",
+      "time": "10:15:30"
+    }
+  ]
+}
