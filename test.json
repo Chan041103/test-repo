@@ -1,20 +1,10 @@
 {
   "date": "2025-07-31",
+  "timestamp": "2025-07-31 03:40:44",
+  "recorder": "Chan041103",
   "attendees": [
-    {
-      "name": "John Doe",
-      "status": "present",
-      "time": "09:05:22"
-    },
-    {
-      "name": "Jane Smith",
-      "status": "absent",
-      "time": null
-    },
-    {
-      "name": "Bob Johnson",
-      "status": "late",
-      "time": "10:15:30"
-    }
+    {"name": "Student1", "status": "present"},
+    {"name": "Student2", "status": "absent"},
+    {"name": "Student3", "status": "present"}
   ]
 }
